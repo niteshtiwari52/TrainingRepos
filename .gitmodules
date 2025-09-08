@@ -7,3 +7,6 @@
 [submodule "wipro_training"]
 	path = wipro_training
 	url = https://github.com/niteshtiwari52/wipro_training
+[submodule "Milestone-3"]
+	path = Milestone-3
+	url = https://github.com/niteshtiwari52/Milestone-3
