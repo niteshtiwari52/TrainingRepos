@@ -4,9 +4,9 @@
 [submodule "CapstoneShopForHome-Backend"]
 	path = CapstoneShopForHome-Backend
 	url = https://github.com/niteshtiwari52/CapstoneShopForHome-Backend
-[submodule "wipro_training"]
-	path = wipro_training
-	url = https://github.com/niteshtiwari52/wipro_training
+[submodule "wipro-training-daywise"]
+	path = wipro-training-daywise
+	url = https://github.com/niteshtiwari52/wipro-training-daywise
 [submodule "Milestone-3"]
 	path = Milestone-3
 	url = https://github.com/niteshtiwari52/Milestone-3
