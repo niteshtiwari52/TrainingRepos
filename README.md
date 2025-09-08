@@ -14,15 +14,15 @@ Day-wise session codes and practice exercises completed during the Wipro trainin
 
 ### 2. [CapstoneShopForHome-Backend](https://github.com/niteshtiwari52/CapstoneShopForHome-Backend) @ 2eb1c91
 This repository contains the **backend services** and **admin panel** implementation for the Capstone project *ShopForHome*.  
-- Built using ASP.NET CORE MVC and WEB API  
-- Database: SQL Server with Entity Framework Core   
-- Includes APIs for products, orders, users, and authentication  
 
 ---
 
 ### 3. [CapstoneShopForHome-Frontend](https://github.com/niteshtiwari52/CapstoneShopForHome-Frontend) @ 8eca871
 This repository contains the **frontend code** for the Capstone project *ShopForHome*.  
-- Built with Angular + Bootstrap  
-- Implements product browsing, filtering, cart, and wishlist functionality  
+
+---
+
+### 4. [Milestone 3](https://github.com/niteshtiwari52/Milestone-3)
+This repository contains Milestone assessemnt code and submission.
 
 ---
