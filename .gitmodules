@@ -10,3 +10,6 @@
 [submodule "wipro-training-daywise"]
 	path = wipro-training-daywise
 	url = https://github.com/niteshtiwari52/wipro-training-daywise
+[submodule "Training-Assignments"]
+	path = Training-Assignments
+	url = https://github.com/niteshtiwari52/Training-Assignments
