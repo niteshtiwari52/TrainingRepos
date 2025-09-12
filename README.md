@@ -26,3 +26,7 @@ This repository contains the **frontend code** for the Capstone project *ShopFor
 This repository contains Milestone assessemnt code and submission.
 
 ---
+### 5. [Training-Assignments](https://github.com/niteshtiwari52/Training-Assignments)
+This repository contains All Assignments.
+
+---
